@@ -1,0 +1,10 @@
+tr{
+    background-color: gainsboro;
+    color: black;
+    text-align: center;
+}
+dt{
+    font-weight: bold;
+    background-color: maroon;
+    color: wheat;
+}
